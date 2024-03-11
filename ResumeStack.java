@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class ResumeStack {
 	
-	private Stack<Resume> resumeStack; // It specifies that resumeStack is an instance of the Stack class that holds objects of type Resume.
+	private Stack<Resume> resumeStack; 
 	
 	public ResumeStack() {
 		resumeStack = new Stack<>();
